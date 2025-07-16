@@ -1,2 +1,1 @@
-# mtc-repo
-Code for MTC
+# This repository is for infrastructure developers.
